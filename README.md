@@ -1,4 +1,4 @@
-# Dataco-power-Bi-Priject
+# Dataco-power-Bi-Project
 
 ## DataCo – Business Intelligence & Supply Chain Analysis
 
