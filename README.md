@@ -2,7 +2,7 @@
 ## DataCo – Business Intelligence & Supply Chain Analysis Report(September 2026) 
 
 
-![DataCo-header](Dataco-header.jpg) 
+![DataCo-header](DataCo-header.jpg) 
 
  ## Executive Summary
 
