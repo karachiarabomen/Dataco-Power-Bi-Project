@@ -55,9 +55,8 @@ The dataset was used as the foundation for developing the business intelligence 
 ## Dashboard.
 
 ## Link to Power BI Report
-Click the link to assess the full power Bi report:
 
-Click the Link to view the full power BI DashBoard:
+###### Click the Link to view the full power BI DashBoard:
 [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiNGFjZTFkMDAtOTZkZS00Y2ExLWIyYjktODliNDhkYTA0NjgzIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9)
 
 ## Data Cleaning and Transformation
