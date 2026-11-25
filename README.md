@@ -57,7 +57,7 @@ The dataset was used as the foundation for developing the business intelligence 
 
 ## Dashboard.
 Click the Link to view the full power BI DashBoard:
-[CLICCK HERE](https://app.powerbi.com/view?r=eyJrIjoiNGFjZTFkMDAtOTZkZS00Y2ExLWIyYjktODliNDhkYTA0NjgzIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9)
+[CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiNGFjZTFkMDAtOTZkZS00Y2ExLWIyYjktODliNDhkYTA0NjgzIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9)
 
 ## Data Cleaning and Transformation
 
