@@ -54,7 +54,7 @@ The dataset was used as the foundation for developing the business intelligence 
 
 ## Dashboard.
 
-Link to Power BI Report
+## Link to Power BI Report
 Click the link to assess the full power Bi report:
 
 Click the Link to view the full power BI DashBoard:
