@@ -4,6 +4,7 @@
 
 **Industry:** E-commerce & Supply Chain
 **Role:** Junior Data Analyst
+
 **Tools:** Microsoft Excel, Power BI, Power Query, DAX
 
  ## Executive Summary
