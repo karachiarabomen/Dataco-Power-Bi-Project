@@ -2,6 +2,8 @@
 ## DataCo – Business Intelligence & Supply Chain Analysis Report(September 2026) 
 
 
+[DataCo-header](Dataco-header. Jpg) 
+
  ## Executive Summary
 
 This project focuses on analysing DataCo's business and supply chain operations to uncover insights into sales performance, profitability, customer behaviour, product performance, and delivery operations.
