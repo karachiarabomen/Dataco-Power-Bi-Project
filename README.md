@@ -1,5 +1,5 @@
 
-## DataCo – Business Intelligence & Supply Chain Analysis Report(September 2026) 
+## DataCo – Business Intelligence & Supply Chain Analysis Report(Jan - Sept 2026) 
 
 
 ![DataCo-header](DataCo-header.jpg) 
