@@ -1,11 +1,6 @@
-# DataCo-power-Bi-Project
 
-## DataCo – Business Intelligence & Supply Chain Analysis Report
+## DataCo – Business Intelligence & Supply Chain Analysis Report(September 2026) 
 
-**Industry:** E-commerce & Supply Chain
-**Role:** Junior Data Analyst
-
-**Tools:** Microsoft Excel, Power BI, Power Query, DAX
 
  ## Executive Summary
 
@@ -79,27 +74,27 @@ The project involved preparing business data for accurate reporting and visualiz
 ### Sales Performance Analysis
 Examined overall sales performance to understand business revenue generation and identify important sales trends.
 
-## Profitability Analysis
+### Profitability Analysis
 
 Analysed business profitability to understand how sales activities contribute to overall profit performance.
 
-## Product Performance Analysis
+### Product Performance Analysis
 
 Examined product categories and individual product performance to identify areas contributing significantly to business sales.
 
-## Customer Segment Analysis
+### Customer Segment Analysis
 
 Evaluated customer segments to understand their contributions to sales and overall business performance.
 
-## Market and Regional Analysis
+### Market and Regional Analysis
 
 Examined sales distribution across different markets and regions to understand geographical business performance.
 
-## Departmental Performance Analysis
+### Departmental Performance Analysis
 
 Evaluated departmental sales and profitability to understand how different business departments contribute to organisational performance.
 
-## Delivery and Shipping Analysis
+### Delivery and Shipping Analysis
 
 Examined delivery and shipping information to understand operational performance and identify areas that may require improvement.
 
