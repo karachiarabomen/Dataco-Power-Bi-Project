@@ -130,7 +130,5 @@ The interactive Power BI dashboard supports data-driven decision-making and demo
 **Project:** DataCo – Business Intelligence & Supply Chain Analysis
 **Industry:** E-commerce & Supply Chain
 **Role:** Junior Data Analyst
-
 **Tools:** Microsoft Excel, Power BI, Power Query, DAX
-
-Project Category: Business Intelligence & Data Analytics
+**Project Category:** Business Intelligence & Data Analytics
