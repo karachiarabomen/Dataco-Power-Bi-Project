@@ -220,9 +220,11 @@ This trend may warrant further investigation to understand the factors associate
 
 ## Conclusion
 
-The DataCo Business Intelligence and Supply Chain Analysis project demonstrates how data analytics and visualization can transform raw business information into meaningful insights.
-By examining sales, profitability, customer behaviour, product performance, market distribution, and delivery operations, the project provides a comprehensive view of business performance.
-The interactive Power BI dashboard supports data-driven decision-making and demonstrates the value of business intelligence in identifying trends, monitoring performance, and improving operational efficiency.
+The DataCo Intelligence Analysis provides an overview of sales, profitability, product performance, customer segments, geographical markets, and delivery risk.
+The dashboard shows positive year-over-year growth in sales, profit, and quantity. Europe and LATAM are the leading markets, Consumer is the largest customer segment, and Fishing is the top product category by sales.
+The Deep Dive analysis also highlights Western Europe as the region with the highest displayed late delivery risk and Fan Shop as the leading department by displayed profit.
+These findings provide useful insights for monitoring business performance, identifying operational concerns, and supporting data-driven decisions.
+
 
 ## Project Information
 
