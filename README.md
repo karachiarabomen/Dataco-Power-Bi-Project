@@ -1,4 +1,4 @@
-# DataCo – Business Intelligence & Supply Chain Analysis Report(Jan - Sept 2026) 
+# DataCo Intelligence: Sales, Profit and Delivery Performance Analysis Report (2013–2018) 
 
 
 ![DataCo-header](DataCo-header.jpg) 
