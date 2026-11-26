@@ -103,6 +103,12 @@ Europe recorded the highest sales, followed by LATAM and Pacific Asia
 ## Dashboard.
 ![DataCO-Image](DataCO-Image.png)
 
+
+
+## Deep Dive view
+
+![DataCo-Insight](DataCo-Insight.png)
+
 ## Link to Power BI Report
 
 Click the Link to view the full power BI DashBoard: [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiNGFjZTFkMDAtOTZkZS00Y2ExLWIyYjktODliNDhkYTA0NjgzIiwidCI6ImJjN2Y1MzUzLTgxZTYtNDk5My1hZjI4LTBhZGUzNWI4NzU4ZCJ9)
