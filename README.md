@@ -52,14 +52,13 @@ The dashboard contains two pages: Home and Deep Dive.
 
 ### The dashboard was designed to investigate:
 
-Overall Business Performance
-
+**Overall Business Performance**
 - Total Sales: $36.78M
 - Total Profit: $3.97M
 - Total Quantity: 384.08K
 - Average Delivery Time: 3.50
 
-Year-over-Year Performance
+**Year-over-Year Performance**
 
 Metric| YOY Change
 Sales| +43.3%
@@ -110,8 +109,14 @@ Click the Link to view the full power BI DashBoard: [CLICK HERE](https://app.pow
 
 ## Data Cleaning and Transformation
 
-Data preparation was an important part of the analysis process.
-The project involved preparing business data for accurate reporting and visualization.
+The dashboard screenshots show the final Power BI dashboard but do not provide the full data-cleaning record.
+
+The dashboard uses categories and dimensions such as product category, customer segment, region, department, and year to support the analysis.
+
+The displayed measures include total sales, total profit, total quantity, average delivery time, and year-over-year performance indicators.
+
+
+
 
 ## The analytical preparation process included:
 
