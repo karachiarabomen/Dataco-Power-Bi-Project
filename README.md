@@ -5,52 +5,101 @@
 
  ## Executive Summary
 
-This project focuses on analysing DataCo's business and supply chain operations to uncover insights into sales performance, profitability, customer behaviour, product performance, and delivery operations.
-Using Microsoft Power BI, Excel, and data analysis techniques, the project transforms raw business data into meaningful insights through interactive visualizations and performance indicators.
-The analysis aims to help stakeholders understand business performance, identify operational trends, and make informed, data-driven decisions.
-Specific numerical findings and recommendations will be added based on the completed dashboard analysis.
+This report presents an analysis of DataCo's business performance using a Power BI dashboard. The analysis focuses on sales, profit, product performance, customer segments, geographical markets, and delivery operations.
+The dashboard recorded total sales of $36.78 million, total profit of $3.97 million, and total quantity of 384.08 thousand units. The average delivery time displayed was 3.50.
+Year-over-year indicators show growth in sales, profit, and quantity. The dashboard also identifies differences in performance across customer segments, product categories, and geographical markets
+
 
 ## Business Context
 
-In a competitive business environment, understanding sales performance, profitability, customer purchasing behaviour, and supply chain efficiency is essential for sustainable growth.
-Businesses generate large amounts of operational data, but extracting meaningful information from that data can be challenging without proper analysis and visualization.
-This project examines DataCo's business and supply chain data to provide a clearer understanding of its performance across different products, customers, markets, departments, and delivery operations.
-The objective is to provide insights that can support business planning, operational improvements, and strategic decision-making.
+DataCo operates in a business environment where sales performance, profitability, product demand, and delivery efficiency are important to overall operations.
+Understanding these business areas helps management evaluate revenue generation, identify profitable departments, assess customer segment performance, and monitor delivery-related risks.
+This analysis uses the DataCo Intelligence dashboard to examine business performance from different perspectives and identify areas that may support better decision-making.
+
 
 ## Objectives
 
 ### The analysis focuses on answering the following business questions:
 
-- What is the overall sales and profitability performance of the business?
-- Which products and product categories contribute most to business performance?
-- Which customer segments generate the highest sales?
-- What does business performance vary across different markets and regions?
-- Which departments contribute most to sales and profitability?
-- How efficient are the company's delivery and shipping operations?
+- Evaluate overall sales, profit, and quantity performance.
+- Examine year-over-year business growth.
+- Identify top-performing products by sales.
+- Analyse customer segment contribution.
+- Compare sales performance across geographical markets.
+- Investigate late delivery risk by region.
+- Examine profit contribution by department.
+- Identify trends in sales over time.
+
 
 ## Data Overview
 
-The project uses DataCo business and supply chain data containing information relating to sales transactions, customers, products, departments, markets, and delivery operations.
-The dataset supports analysis across different business dimensions, including:
-- Sales and order information.
-- Product categories and product performance.
-- Customer segments.
-- Market and regional distribution.
-- Departmental performance.
-- Shipping and delivery information.
+The dashboard presents the following business information:
 
-The dataset was used as the foundation for developing the business intelligence dashboard.
+Data Area| Description
+Sales| Total sales and year-over-year sales growth
+Profit| Total profit and year-over-year profit growth
+Quantity| Total quantity and growth
+Delivery| Average delivery time and late delivery risk
+Products| Product categories and sales performance
+Customers| Consumer, Corporate, and Home Office segments
+Markets| Europe, LATAM, Pacific Asia, USCA, and Africa
+Departments| Fan Shop, Apparel, Golf, Footwear, Outdoors
+Time| Sales trends and year-over-year comparisons
+
+The dashboard contains two pages: Home and Deep Dive.
 
 ## Key Findings
 
 ### The dashboard was designed to investigate:
 
-- Overall sales and profit performance.
-- Top-performing products and product categories.
-- Customer segment contributions.
-- Sales performance across different markets.
-- Departmental sales and profitability.
-- Delivery and shipping performance.
+Overall Business Performance
+
+- Total Sales: $36.78M
+- Total Profit: $3.97M
+- Total Quantity: 384.08K
+- Average Delivery Time: 3.50
+
+Year-over-Year Performance
+
+Metric| YOY Change
+Sales| +43.3%
+Profit| +44.6%
+Quantity| +33.6%
+Delivery| 0.0%
+
+Sales, profit, and quantity recorded positive year-over-year growth.
+
+Customer Segment Distribution
+
+Customer Segment| Share
+Consumer| 51.8%
+Corporate| 30.35%
+Home Office| 17.85%
+
+The Consumer segment contributed the largest share of the displayed segment distribution.
+
+Top Performing Products by Sales
+
+The dashboard identifies the following leading product categories:
+
+- Fishing
+- Cleats
+- Camping & Hiking
+- Cardio Equipment
+- Women's Apparel
+
+Fishing recorded the highest sales among the product categories displayed.
+
+Sales by Market
+Market| Sales
+Europe| $10.87M
+LATAM| $10.28M
+Pacific Asia| $8.27M
+USCA| $5.07M
+Africa| $2.29M
+
+Europe recorded the highest sales, followed by LATAM and Pacific Asia
+
 
 ## Dashboard.
 
