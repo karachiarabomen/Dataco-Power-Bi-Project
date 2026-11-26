@@ -109,14 +109,13 @@ Click the Link to view the full power BI DashBoard: [CLICK HERE](https://app.pow
 
 ## Data Cleaning and Transformation
 
-The dashboard screenshots show the final Power BI dashboard but do not provide the full data-cleaning record.
+All steps were done in Power Query.
 
-The dashboard uses categories and dimensions such as product category, customer segment, region, department, and year to support the analysis.
-
-The displayed measures include total sales, total profit, total quantity, average delivery time, and year-over-year performance indicators.
-
-
-
+Loaded the CSV and renamed the query Deliveries.
+Set data types: Order_Date (Date), Dispatch_Time (Time), Delivery_Time_Mins, Delivery_Fee_NGN and Customer_Rating (Whole Number), all others (Text).
+Checked for duplicates: all 6,500 Order_IDs unique, no duplicate rows.
+Checked text columns for inconsistent casing, spelling and extra spaces: none found.
+Kept nulls in Delivery_Time_Mins and Customer_Rating for undelivered orders, rather than replacing them with 0, so averages are not distorted.
 
 ## The analytical preparation process included:
 
@@ -128,44 +127,88 @@ The displayed measures include total sales, total profit, total quantity, averag
 - Preparing measures and calculations for performance analysis.
 
 ## Detailed Findings & Analysis
+Sales and Profit Performance
 
-### Sales Performance Analysis
-Examined overall sales performance to understand business revenue generation and identify important sales trends.
+DataCo recorded $36.78 million in total sales and $3.97 million in total profit.
 
-### Profitability Analysis
+The year-over-year indicators show sales growth of 43.3% and profit growth of 44.6%. Profit growth was slightly higher than sales growth, indicating an improvement in the displayed profit performance relative to sales.
 
-Analysed business profitability to understand how sales activities contribute to overall profit performance.
+Customer Segment Analysis
+The Consumer segment accounted for 51.8% of the displayed segment distribution, making it the largest customer segment.
 
-### Product Performance Analysis
+Corporate customers contributed 30.35%, while Home Office accounted for 17.85%.
 
-Examined product categories and individual product performance to identify areas contributing significantly to business sales.
+This distribution shows that the Consumer segment represents the largest share of the customer mix shown in the dashboard.
 
-### Customer Segment Analysis
+Product Performance
 
-Evaluated customer segments to understand their contributions to sales and overall business performance.
+Fishing was the leading product category by sales, generating approximately $6.9 million.
 
-### Market and Regional Analysis
+Other leading categories included:
 
-Examined sales distribution across different markets and regions to understand geographical business performance.
+Product Category| Sales
+Fishing| $6.9M
+Cleats| $4.4M
+Camping & Hiking| $4.1M
+Cardio Equipment| $3.7M
+Women's Apparel| $3.1M
 
-### Departmental Performance Analysis
+The results indicate that sales were concentrated among several leading product categories.
 
-Evaluated departmental sales and profitability to understand how different business departments contribute to organisational performance.
+Geographical Market Analysis
 
-### Delivery and Shipping Analysis
+Europe generated the highest sales at $10.87 million, closely followed by LATAM at $10.28 million.
 
-Examined delivery and shipping information to understand operational performance and identify areas that may require improvement.
+Pacific Asia recorded $8.27 million, while USCA and Africa recorded $5.07 million and $2.29 million respectively.
+
+The dashboard therefore shows Europe and LATAM as the two leading markets by sales.
+
+Late Delivery Risk Analysis
+
+The Deep Dive page identifies the following regions with late delivery risk:
+
+Region| Displayed Risk
+Western Europe| 15K
+West of USA| 4K
+West Asia| 3K
+US Center| 3K
+West Africa| 2K
+
+Western Europe recorded the highest displayed late delivery risk.
+
+Profit by Department
+
+Department| Displayed Profit
+Fan Shop| 67K
+Apparel| 49K
+Golf| 33K
+Footwear| 15K
+Outdoors| 10K
+
+Fan Shop recorded the highest displayed profit among the departments shown.
+
+Sales Trend Over Time
+
+The sales trend chart displays performance from January 2013 to January 2018.
+
+The chart shows sales activity across the period, followed by a noticeable decline toward the end of the displayed timeline.
+
+This trend may warrant further investigation to understand the factors associated with the decline.
+
+
+
 
 ## Recommendations
 
 ### The following business areas should be considered based on the findings of the analysis:
 
-- **Sales Growth:** Strengthen sales strategies around high-performing products and categories.
-- **Profitability Management:** Monitor product and departmental profitability to identify opportunities for improved margins.
-- **Customer Management:** Develop targeted strategies for customer segments with strong sales contributions.
-- **Market Expansion:** Evaluate regional performance to identify potential growth opportunities.
-- **Operational Efficiency:** Review delivery performance and investigate factors contributing to shipping delays.
-- **Performance Monitoring:** Use interactive dashboards to monitor business performance and support timely decisions.
+1. Strengthen leading markets by reviewing the strategies contributing to Europe's and LATAM's strong sales performance.
+2. Investigate late delivery risk, prioritising Western Europe, which recorded the highest displayed risk.
+3. Examine the performance of Fan Shop and other leading departments to identify practices that may support profitability.
+4. Continue monitoring Fishing, Cleats, and Camping & Hiking due to their strong sales contribution.
+5. Develop strategies that maintain Consumer segment performance while supporting growth in Corporate and Home Office segments.
+6. Investigate the decline visible near the end of the displayed sales timeline.
+
 
 
 ## Tools Used
